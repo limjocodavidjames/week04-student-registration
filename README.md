@@ -129,18 +129,17 @@ The flowchart shows the full registration process — from the user opening the 
 
 ## Screenshots
 
+## Screenshots
+
 | # | Screenshot | Description |
 |---|---|---|
-| 1 | `screenshots/01-registration-form.png` | The registration form |
-| 2 | `screenshots/02-validation-errors.png` | Validation errors showing on the form |
-| 3 | `screenshots/03-flash-success.png` | Success flash message after registration |
-| 4 | `screenshots/04-uploaded-image.png` | Profile picture displayed after upload |
-| 5 | `screenshots/05-student-profile.png` | Student profile page |
-| 6 | `screenshots/06-database-records.png` | MySQL database with saved records |
-| 7 | `screenshots/07-project-structure.png` | VS Code project structure |
-| 8 | `screenshots/08-github-repository.png` | GitHub repository |
-| 9 | `screenshots/09-terminal-output.png` | Terminal showing artisan commands |
-| 10 | `screenshots/10-browser-output.png` | Browser output |
+| 1 | `screenshots/Registration Form.jpg` | The registration form |
+| 2 | `screenshots/Validation Errors.jpg` | Validation errors showing on the form |
+| 3 | `screenshots/Successful Registration.jpg` | Success flash message after registration |
+| 4 | `screenshots/Uploaded Profile Picture.jpg` | Profile picture displayed after upload |
+| 5 | `screenshots/Database Table.jpg` | MySQL database with saved records |
+| 6 | `screenshots/VS Code Project Structure.jpg` | VS Code project structure |
+| 7 | `screenshots/GitHub Repository.jpg` | GitHub repository |
 
 ---
 
